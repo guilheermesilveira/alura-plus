@@ -11,4 +11,4 @@ página web, pratiquei o posicionando de elementos, grid layout, flexbox, margin
 - Flexbox
 
 ## 🌐 Acesso ao alura plus
-o deploy do projeto foi feito no seguinte endereço: https://guilheermesilveira.github.io/alura-plus/
+O deploy do projeto foi feito no seguinte endereço: [Alura Plus](https://guilheermesilveira.github.io/alura-plus/)
